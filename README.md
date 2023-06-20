@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Logan8024
-- 👀 I’m interested in Developing my python and develpoment skills
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on fun projects
+- 👀 I’m interested deepening my knowledge of Coding
+- 🌱 I’m currently learning C#
 - 📫 How to reach me email me
 
 <!---
